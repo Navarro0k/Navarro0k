@@ -4,7 +4,7 @@ Soy estudiante de Ingeniería de Sistemas y desarrollador de software enfocado e
 
 ## 🚀 Sobre mí
 <p align="center">
-  <img src="https://media1.tenor.com/m/MFzW3r50ntsAAAAd/tony-stark-iron-man.gif">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmswOWE4NnhwZzN3empnMzN0a21nY2VpYzF0MGwzaHZpcmJobnoxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MUlmRFnTQxwJ2/giphy.gif">
 </p>
 
 - 🎓 Estudiante de Ingeniería de Sistemas.
