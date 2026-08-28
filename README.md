@@ -3,6 +3,9 @@
 Soy estudiante de Ingeniería de Sistemas y desarrollador de software enfocado en la construcción de aplicaciones estructuradas, la programación competitiva y el análisis numérico. Actualmente estoy expandiendo mis bases de backend hacia el desarrollo web frontend y la creación de videojuegos.
 
 ## 🚀 Sobre mí
+<p align="center">
+  <img src="https://media1.tenor.com/m/MFzW3r50ntsAAAAd/tony-stark-iron-man.gif">
+</p>
 
 - 🎓 Estudiante de Ingeniería de Sistemas.
 - 💻 **Fuerte en:** Aplicaciones de escritorio (Clean Architecture) y algoritmos. ¡Amo a Python! 🐍
