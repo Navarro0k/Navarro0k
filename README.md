@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hola, soy Juan Navarro 👋
 
-<!--
-**Navarro0k/Navarro0k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingeniería de Sistemas y desarrollador de software enfocado en la construcción de aplicaciones estructuradas, la programación competitiva y el análisis numérico. Actualmente estoy expandiendo mis bases de backend (Java, Python, C++) hacia el desarrollo web frontend.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudiante de Ingeniería de Sistemas.
+- 💻 **Fuerte en:** Aplicaciones de escritorio (Clean Architecture) y algoritmos.
+- 🌱 **Aprendiendo actualmente:** JavaScript, HTML5, CSS y el ecosistema de desarrollo web.
+- 🎯 **Intereses:** Análisis de Datos, Machine Learning, desarrollo de videojuegos 2D.
+- 📫 **Cómo contactarme:** navarro281205@gmail.com
+
+## 🛠️ Tecnologías y Herramientas
+
+### Lenguajes
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### Desarrollo Web & UI
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge&logo=java&logoColor=white" />
+</p>
+
+### Herramientas & Pruebas
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
+</p>
+
+## 📂 Proyectos Destacados
+
+* **La Venturosa APP**: Aplicación de escritorio desarrollada con JavaFX aplicando principios de Clean Architecture. Implementación de pruebas unitarias con JUnit 5 y Mockito.
+* **SKYFALL REBORN**: Videojuego 2D con mecánicas táctiles y gestión de físicas, desarrollado con GDScript para Android.
