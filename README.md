@@ -2,6 +2,13 @@
 
 Soy estudiante de Ingeniería de Sistemas y desarrollador de software enfocado en la construcción de aplicaciones estructuradas, la programación competitiva y el análisis numérico. Actualmente estoy expandiendo mis bases de backend hacia el desarrollo web frontend y la creación de videojuegos.
 
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Navarro0k&theme=radical)](https://github.com/Navarro0k)
+
+</div>
+
+
 ## 🚀 Sobre mí
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmswOWE4NnhwZzN3empnMzN0a21nY2VpYzF0MGwzaHZpcmJobnoxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MUlmRFnTQxwJ2/giphy.gif">
