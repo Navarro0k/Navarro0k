@@ -8,13 +8,7 @@ Soy estudiante de Ingeniería de Sistemas y desarrollador de software enfocado e
 
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Navarro0k/Navarro0k/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Navarro0k/Navarro0k/output/github-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Navarro0k/Navarro0k/output/github-snake.svg">
-  </picture>
-</div>
+
 
 
 ## 🚀 Sobre mí
@@ -63,3 +57,12 @@ Soy estudiante de Ingeniería de Sistemas y desarrollador de software enfocado e
 * **SKYFALL REBORN**: Videojuego 2D con mecánicas táctiles y gestión de físicas, desarrollado con GDScript para Android en Godot Engine.  
   <br>
   [![Jugar en itch.io](https://img.shields.io/badge/Jugar_en-itch.io-fa5c5c?style=for-the-badge&logo=itch.io&logoColor=white)](https://navarro0k.itch.io/ducks-dont-fly)
+
+## Contribuciones Snake:)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Navarro0k/Navarro0k/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Navarro0k/Navarro0k/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Navarro0k/Navarro0k/output/github-snake.svg">
+  </picture>
+</div>
