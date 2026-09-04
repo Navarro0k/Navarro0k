@@ -41,5 +41,10 @@ Soy estudiante de Ingeniería de Sistemas y desarrollador de software enfocado e
 
 ## 📂 Proyectos Destacados
 
-* **La Venturosa APP**: Aplicación de escritorio desarrollada con JavaFX aplicando principios de Clean Architecture. Implementación de pruebas unitarias con JUnit 5 y Mockito.
-* **SKYFALL REBORN**: Videojuego 2D con mecánicas táctiles y gestión de físicas, desarrollado con GDScript para Android en Godot Engine.
+* **La Venturosa APP**: Aplicación de escritorio desarrollada con JavaFX aplicando principios de Clean Architecture. Implementación de pruebas unitarias con JUnit 5 y Mockito.  
+  <br>
+  [![Ir al Repositorio](https://img.shields.io/badge/Ir_al_Repo-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/Navarro0k/la-venturosa-system-javafx])
+
+* **SKYFALL REBORN**: Videojuego 2D con mecánicas táctiles y gestión de físicas, desarrollado con GDScript para Android en Godot Engine.  
+  <br>
+  [![Jugar en itch.io](https://img.shields.io/badge/Jugar_en-itch.io-fa5c5c?style=for-the-badge&logo=itch.io&logoColor=white)]([https://navarro0k.itch.io/ducks-dont-fly])
