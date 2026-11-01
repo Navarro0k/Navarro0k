@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmswOWE4NnhwZzN3empnMzN0a21nY2VpYzF0MGwzaHZpcmJobnoxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MUlmRFnTQxwJ2/giphy.gif" alt="Intro GIF" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmswOWE4NnhwZzN3empnMzN0a21nY2VpYzF0MGwzaHZpcmJobnoxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MUlmRFnTQxwJ2/giphy.gif">
 </p>
 
 ```python
@@ -23,6 +23,7 @@ class JuanNavarro(SoftwareEngineer):
         "Game engines (Godot, GDScript)",
     ]
     exploring = ["Data analysis", "Machine Learning"]
+    research_seedbeds = ["SITI", "SAES"]  # Universidad de los Llanos
 
     def work_cycle(self):
         while self.is_learning:
@@ -41,6 +42,35 @@ class JuanNavarro(SoftwareEngineer):
 I'm a Systems Engineering student who treats software the way an engineer treats a suit of armor: every layer has a single responsibility, and every component is tested in isolation before it is trusted in flight.
 
 I apply **Clean Architecture** to desktop applications, keep complexity under control with **data structures and algorithms**, and prototype **2D game mechanics** where physics and touch input have to feel right. I'm now taking my backend foundations to the next stage: **frontend web development** and **game engines**.
+
+---
+
+## Community & Achievements
+
+<table>
+  <tr>
+    <td width="60" align="center">🔬</td>
+    <td>
+      <b>Research seedbed member: SITI and SAES</b><br/>
+      Active member of the <b>SITI</b> and <b>SAES</b> research seedbeds (<i>semilleros de investigación</i>) at <b>Universidad de los Llanos</b>.<br/>
+      <b>SITI</b> focuses on <b>interactive technologies</b>; through it I have taken part in <b>RPC</b> and <b>game jams</b>.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">🏆</td>
+    <td>
+      <b>Winner of the first Game Jam at Universidad de los Llanos</b><br/>
+      Built a complete game prototype under time constraints and took first place.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">📱</td>
+    <td>
+      <b>Mobile game creator</b><br/>
+      Designed and developed a mobile game in a two-person team with <a href="https://github.com/dassg-xd">@dassg-xd</a>.
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -145,7 +175,6 @@ I love movies of every genre and I read a lot, especially anything by Fyodor Dos
 
 ---
 
-## Let's Build Something
 
 ```text
 >>> Thanks for stopping by.
